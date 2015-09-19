@@ -2,7 +2,10 @@
 <resources>
     <string name="app_name">IMC Calculator</string>
     <string name="action_settings">Settings</string>
-    <string name="comotellamas">What's your name?</string>
-    <string name="cuantopesas">What's your weight (kg)?</string>
-    <string name="cualestualtura">What's your height (cm)?</string>
+    <string name="comotellamas">What is your name?</string>
+    <string name="cuantopesas">What is your weight (kg)?</string>
+    <string name="cualestualtura">What is your height (cm)?</string>
+    <string name="calcular">Calculate</string>
+    <string name="resultadosimc">IMC Results</string>
+    <string name="resultado">Results</string>
 </resources>

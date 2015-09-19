@@ -1,7 +1,10 @@
 <resources>
     <string name="app_name">Calculadora IMC</string>
-    <string name="action_settings">Settings</string>
+    <string name="action_settings">Opciones</string>
     <string name="comotellamas">¿Cómo te llamas?</string>
     <string name="cuantopesas">¿Cuánto pesas (kilos)?</string>
     <string name="cualestualtura">¿Cuál es tu altura (cm)?</string>
+    <string name="calcular">Calcular</string>
+    <string name="resultadosimc">Resultados IMC</string>
+    <string name="resultado">Resultado</string>
 </resources>

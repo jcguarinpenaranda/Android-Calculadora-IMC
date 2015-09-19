@@ -4,8 +4,11 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.widget.EditText;
 
 public class MainActivity extends AppCompatActivity {
+
+    EditText et_peso, et_altura, et_nombre;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
