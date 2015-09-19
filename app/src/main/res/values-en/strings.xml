@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IMC Calculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="comotellamas">What's your name?</string>
+    <string name="cuantopesas">What's your weight (kg)?</string>
+    <string name="cualestualtura">What's your height (cm)?</string>
+</resources>
