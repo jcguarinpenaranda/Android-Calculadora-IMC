@@ -135,7 +135,8 @@
                     android:layout_height="wrap_content"
                     android:text="@string/calcular"
                     android:id="@+id/bt_calcular"
-                    android:layout_gravity="center_horizontal" />
+                    android:layout_gravity="center_horizontal"
+                    android:onClick="calcular" />
 
                 <Space
                     style="espacio"

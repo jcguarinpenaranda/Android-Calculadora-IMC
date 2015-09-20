@@ -5,15 +5,20 @@ import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.EditText;
+import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
-    EditText et_peso, et_altura, et_nombre;
+    EditText et_peso, et_altura, et_nombre, et_resultadovalor;
+    TextView tv_resultadodescripcion;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+
     }
 
     @Override
@@ -37,4 +42,17 @@ public class MainActivity extends AppCompatActivity {
 
         return super.onOptionsItemSelected(item);
     }
+
+
+    public void calcular(){
+
+        /*
+        * IMC = peso / altura*altura
+         *
+         * IMC = 69 / 1,69²
+        * */
+
+
+    }
+
 }
