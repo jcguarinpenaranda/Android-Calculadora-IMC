@@ -7,4 +7,11 @@
     <string name="calcular">Calcular</string>
     <string name="resultadosimc">Resultados IMC</string>
     <string name="resultado">Resultado</string>
+    <string name="bajopeso">Bajo peso</string>
+    <string name="muybajopeso">Muy bajo peso</string>
+    <string name="pesonormal">Peso normal</string>
+    <string name="sobrepeso">Sobrepeso</string>
+    <string name="obesidad1">Obesidad nivel 1</string>
+    <string name="obesidad2">Obesidad nivel 2</string>
+    <string name="obesidad3">Obesidad nivel 3</string>
 </resources>

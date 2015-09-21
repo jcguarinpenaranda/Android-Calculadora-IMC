@@ -8,4 +8,11 @@
     <string name="calcular">Calculate</string>
     <string name="resultadosimc">IMC Results</string>
     <string name="resultado">Results</string>
+    <string name="bajopeso">Low weight</string>
+    <string name="muybajopeso">Very low weight</string>
+    <string name="pesonormal">Normal weight</string>
+    <string name="sobrepeso">Overweight</string>
+    <string name="obesidad1">Obesity level 1</string>
+    <string name="obesidad2">Obesity level 2</string>
+    <string name="obesidad3">Obesity level 3</string>
 </resources>
